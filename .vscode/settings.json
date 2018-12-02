@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "encoder.h": "c",
+        "timer.h": "c",
+        "adc.h": "c",
+        "stm8s_tim4.h": "c",
+        "stm8s_conf.h": "c"
+    }
+}
